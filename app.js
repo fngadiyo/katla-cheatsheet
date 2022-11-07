@@ -1,7 +1,7 @@
 const fs = require('fs')
 const prompt = require('prompt-sync')()
 const katlaList = 'katla-list.txt'
-
+//halo
 const mulaiProgram = () => {
     const hasil = 'hasil.txt'
     const input = prompt('huruf spasi warna: ')
